@@ -1,5 +1,5 @@
 PKG_NAME := pypi-branca
-URL = https://files.pythonhosted.org/packages/bb/66/e3591bc59d0685668cf9bb451ed527b0c261cfa2afedbe72422442586ace/branca-0.6.0.tar.gz
+URL = https://files.pythonhosted.org/packages/4e/e7/9b78e6f307f8450396081413771c0c0ddccb9ac9e38cad83fbc128428353/branca-0.7.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
