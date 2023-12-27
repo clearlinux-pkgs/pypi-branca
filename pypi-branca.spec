@@ -7,7 +7,7 @@
 #
 Name     : pypi-branca
 Version  : 0.7.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/4e/e7/9b78e6f307f8450396081413771c0c0ddccb9ac9e38cad83fbc128428353/branca-0.7.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/4e/e7/9b78e6f307f8450396081413771c0c0ddccb9ac9e38cad83fbc128428353/branca-0.7.0.tar.gz
 Summary  : Generate complex HTML+JS pages with Python
